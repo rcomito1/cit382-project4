@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.StyleAll {
+  border: solid 1px #aaa;
+  text-align: center;
+  font-size: 20px;
+  white-space: nowrap;
+  line-height: 12px;
+  overflow: hidden;
+}
+
+.StyleInput {
+  width: 300px;
+  height: 300px;
+  border: solid 1px #ccc;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.StyleItems {
+  width: 300px;
+  height: 300px;
+  border: solid 1px #ccc;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h1 {
+  text-align: center;
+  color: orangered;
+}
+
+.Graph {
+  text-align: center;
+  color: orangered;
+}
